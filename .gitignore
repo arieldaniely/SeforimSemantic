@@ -1,0 +1,12 @@
+.gradle/
+.kotlin/
+.idea/
+build/
+.codex-*/
+*.log
+*.db
+*.onnx
+tokenizer.json
+*.bin
+*.tar*
+*.zip
